@@ -1,6 +1,6 @@
 
 
-const ikRockArrowFunctions = () => "Joe, ik rock de arrow functions";
+* const ikRockArrowFunctions = () => "Joe, ik rock de arrow functions";
 console.log(`resultaat arrowrockfunction ${ikRockArrowFunctions()}`);
 
 const fivePlusSeven = () => 5 + 7;
