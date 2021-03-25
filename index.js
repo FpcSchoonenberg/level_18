@@ -40,7 +40,8 @@ const fruitExtra = fruits.map(item => item.cost + 100);
 fruitExtra.forEach(item => console.log(item));
 
 
-    
+const a = (number) => number + 5;
+console.log(a(5));
 
 
 
